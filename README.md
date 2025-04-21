@@ -40,20 +40,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=donut&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
-
-> 🔁 Replace `your-username` with your actual GitHub username
 
 ---
 
 ### 📫 Contact Me
 
-📧 **MAILKI148148@GMAIL.COM**  
-🌐 [My Website](https://yourwebsite.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+📧 **Malki148148@gmail.com**  
